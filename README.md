@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Michuu31337
 - 👀 I’m interested in  in cybersecurity and specifically in the defensive side - Blue Team.
-- 🌱 I am constantly gaining knowledge in IT security. I am preparing for the Comptia Security+ exam.
+- 🌱 I am constantly gaining knowledge in IT and OT security field
+- Certificates: PSAA / BTL1 / SAL1 / C3SA / CSIL-CI  
 
 
 <!---
